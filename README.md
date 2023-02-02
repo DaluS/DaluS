@@ -6,7 +6,7 @@
 
 ## Previous Work 
 
-### PhD in interdisciplinary physics )
+### PhD in interdisciplinary physics: self-organisation of macroscopic organism in their mechanical environment
 * "form, formation, deformation of G. ventalina"
 * Under the direction of Stephane Douady (MSC Paris VII) and Pascal-Jean Lopez (MNHN)
 * Ph.D. defense can be found here: 
@@ -15,6 +15,7 @@
 description 
 
 experiments 
+
 
 ###  Reaction-diffusion growth models with depletion applied to diatoms
 * Under the direction of Julien Derr (MSC Paris VII)
