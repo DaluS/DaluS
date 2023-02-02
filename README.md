@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Paul Valcke</h1>
 <h3 align="center">A researcher in complexity dynamics applied to macroeconomic systems</h3>
 
-# Current Work (Post-doctoral Researcher at the Environmental Justice Program, Georgetown University)
+## Current Work (Post-doctoral Researcher at the Environmental Justice Program, Georgetown University)
 
 
-# Previous Work 
+## Previous Work 
 
-## PhD in interdisciplinary physics )
+### PhD in interdisciplinary physics )
 * "form, formation, deformation of G. ventalina"
 * Under the direction of Stephane Douady (MSC Paris VII) and Pascal-Jean Lopez (MNHN)
 * Ph.D. defense can be found here: 
@@ -16,7 +16,7 @@ description
 
 experiments 
 
-##  Reaction-diffusion growth models with depletion applied to diatoms
+###  Reaction-diffusion growth models with depletion applied to diatoms
 * Under the direction of Julien Derr (MSC Paris VII)
 
 
