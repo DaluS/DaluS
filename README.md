@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Valcke</h1>
 <h3 align="center">A researcher in complexity dynamics applied to macroeconomic systems</h3>
 
-## Current Work (Post-doctoral Researcher at the Environmental Justice Program, Georgetown University)
+## Post-doctoral Researcher at the Environmental Justice Program, Georgetown University
 
 
 ## Previous Work 
