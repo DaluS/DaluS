@@ -33,9 +33,9 @@
 ###  Reaction-diffusion growth models with depletion applied to diatoms
 * Under the direction of Julien Derr (MSC Paris VII)
 
-*Shape creation and control are important topics for both applied development and fundamental research. We focus here on diatoms, a type of unicellular algae which create beautiful, diverse, and well regulated shells of silicate with no waste nor much energy, at the micrometer scale. The basic mechanism of diatom morphogenesis has been clearly identified, but no biologically coherent model can account for observed characteristics. After a review of known diatoms morphogenesis models and usual morphogenesis theoretical approaches in general, we present our model and its hypotheses, based on boundary conditions and movements. We then develop our numerical approach with a new code structure using finite elements, and finish with the qualitative results we obtained during this internship, thus giving a good overall view of regulation mechanisms, their impact*
+![image](https://user-images.githubusercontent.com/11523050/234644907-b914dd1f-b609-4059-9ae1-8e534fc03711.png)
 
-![image](https://user-images.githubusercontent.com/11523050/234643992-85ad6b59-2e99-47c3-9759-2dcebdac85dc.png)
+*Shape creation and control are important topics for both applied development and fundamental research. We focus here on diatoms, a type of unicellular algae which create beautiful, diverse, and well regulated shells of silicate with no waste nor much energy, at the micrometer scale. The basic mechanism of diatom morphogenesis has been clearly identified, but no biologically coherent model can account for observed characteristics. After a review of known diatoms morphogenesis models and usual morphogenesis theoretical approaches in general, we present our model and its hypotheses, based on boundary conditions and movements. We then develop our numerical approach with a new code structure using finite elements, and finish with the qualitative results we obtained during this internship, thus giving a good overall view of regulation mechanisms, their impact*
 
 **Link to the repository :** 
 
