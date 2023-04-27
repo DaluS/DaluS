@@ -25,9 +25,7 @@
 
 *How can we read the complex shape of corals ? What are its geometrical and mechanical properties ? What can they tell us about their environment ? How do they appear, how can we decompose the shape as an ensemble of simple growth processes coupled together ? What does those growth processes tell us about the ability of Gorgonia ventalina to acclimate its environment ?*
 
-![image](https://user-images.githubusercontent.com/11523050/234641952-407d4f6c-3ea1-41b2-ba61-93c683f24764.png) ![image](https://user-images.githubusercontent.com/11523050/234642039-d06ccaf2-a3a1-4a84-863f-bf3cb9ce3f62.png) 
-![image](https://user-images.githubusercontent.com/11523050/234642115-05f2902c-896d-4a01-aa21-61da21a0aa69.png)
-
+![image](https://user-images.githubusercontent.com/11523050/234803817-fbc904a7-b1b5-499c-a4e4-9cc93b084a0d.png)
 
 ###  Reaction-diffusion growth models with depletion applied to diatoms
 * Under the direction of Julien Derr (MSC Paris VII)
