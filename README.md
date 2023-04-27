@@ -37,6 +37,8 @@
 ![image](https://user-images.githubusercontent.com/11523050/234805072-52cde804-ad39-4b3e-867b-8fd0842e1f99.png)
 *Zoom on diatom shapes, showing a super-ellispe macroscopic shape and a reticulated local pattern created by calcium sillicate accretion* 
 
+![image](https://user-images.githubusercontent.com/11523050/234807575-9cc252de-8f42-4f39-a19a-afede947b3ec.png)
+*Left : principle of the model's dynamics. Right : Example of simulation*
 **Link to the repository :** 
 
 ## Previous Internships
