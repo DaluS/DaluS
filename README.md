@@ -43,6 +43,18 @@
 
 ## Previous Internships
 
+### Mechanic instabilities on inertial confinement fusion targets 
+![image](https://user-images.githubusercontent.com/11523050/234812252-3f2ee34e-6152-4328-9733-6918c8107d1e.png)
+* Under the direction of Stephane Laffite (CEA-DAM) 
+
+
+
+### Tsunami-induced erosion
+![image](https://user-images.githubusercontent.com/11523050/234810622-d9a98e50-8a1a-42a6-a15d-f6a0ae852001.png)
+* Under the direction of Denis Morichon (SIAME)
+
+![image](https://user-images.githubusercontent.com/11523050/234811048-d90e52b2-12db-4ab3-8675-5993f2a4d6df.png)
+*Criteria of sediment transport during a run-up/washdown event with a tsunami-type wave.*
 
 # Links
 
