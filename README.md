@@ -5,6 +5,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Previous Work 
 
 ### PhD in interdisciplinary physics: self-organisation of macroscopic organism in their mechanical environment
