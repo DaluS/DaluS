@@ -1,16 +1,16 @@
 <h1 align="center">Hi! I'm Paul Valcke</h1>
 <h3 align="center">A researcher in complexity dynamics applied to macroeconomic systems and strong sustainability</h3>
-<h3 align="center">[Here is my resume](https://drive.google.com/file/d/1U0r7rzY7UCTJBAwEQYudq6Bpm6lwoFtQ/view?usp=drive_link)e</h3>
+<h3 align="center"> [Here is my resume](https://drive.google.com/file/d/1U0r7rzY7UCTJBAwEQYudq6Bpm6lwoFtQ/view?usp=drive_link) </h3>
 
-In a few words, my passion is **self-organizing systems**: how a few simple processes put together can allow the emergence of complex behaviors, shapes, and harmonies. I started with a focus on shapes in nature (how does a tree get its shape ? Why are waves different and can we read the reef shape from theirs ?), and then I studied how the environment influences the shapes of biological systems, and the properties emerging from this interaction: synergies, adaptation and sometimes crises. 
+In a few words, my passion is **self-organizing systems**: how a few simple processes put together can allow the emergence of complex behaviors, shapes, and harmonies. I started with a focus on shapes in nature (how does a tree get its shape ? Why are waves different, and can we read the reef shape from theirs ?), and then I studied how the environment influences the shapes of biological systems and the properties emerging from this interaction: synergies, adaptation and sometimes crises. 
 
-I was lucky enough to a Ph.D. in the beautiful shape of a coral _Gorgonia ventalina_, described below. The goal was to **understand how such shape appears** (which processes) and if the **environmental influence** was shaping the shape in a smart way: the coral would be adapted to its environment. I was focusing on the mechanical environment: the soft coral is bent with the waves and uses this movement to stand up and catch light and particles. That leads to impressive links between many systems like cities, butterfly wings, gorgonians, the internet, academic hierarchy, trees, continents, beams... As well as a new method to look at complex shapes, read them, and measure their properties. 
+I was lucky enough to do a Ph.D. about the beautiful shape of a coral _Gorgonia ventalina_, described below. The goal was to **understand how such shape appears** (which processes) and if the **environmental influence** was smartly shaping the shape: the coral would be adapted to its environment. I focused on the mechanical environment: the soft coral is bent with the waves and uses this movement to stand up and catch light and particles. That leads to impressive links between many systems like cities, butterfly wings, gorgonians, the internet, academic hierarchy, trees, continents, beams... As well as a new method to look at complex shapes, read them, and measure their properties. 
 
-Alerted by the **biodiversity threat of the Anthropocene** and the impacts we have on our society, and more particularly the bleak future of corals in the XXI century, I decided to **study economic structure organization rules, and their interaction with the environment**. Society as an organism, as a dissipative structure. 
+Alerted by the **biodiversity threat of the Anthropocene** and the impacts we have on our society, and more particularly, the bleak future of corals in the XXI century, I decided to **study economic structure organization rules and their interaction with the environment**. Society as an organism, as a dissipative structure. 
 
-Today, I **develop methodologies, models, and numerical tools and prove analytical properties** to understand and couple complex systems, in particular for ecological economic issues. You'll find here many elements to do so.
+Today, I **develop methodologies, models, and numerical tools and prove analytical properties** to understand and couple complex systems, particularly for ecological economic issues. You'll find here many elements to do so.
 
-My goal is that 50 years from now, some young crazy students can spend years studying the beauty of our environment. That would require that a beautiful environment still exists and that society is well enough to allow such non-conventional subjects to be explored. 
+My goal is that 50 years from now, some young crazy students can spend years studying the beauty of our environment. That would require that a beautiful environment still exists and that society is well enough to explore such non-conventional subjects. 
 
 # Post-doctoral Researcher at the Environmental Justice Program, Georgetown University
 
@@ -30,10 +30,10 @@ My goal is that 50 years from now, some young crazy students can spend years stu
 # Previous Work 
 
 ## Ph.D. in interdisciplinary physics: self-organization of macroscopic organisms in their mechanical environment
-* "form, formation, deformation of G. ventalina"
+* "**form, formation, deformation of G. ventalina**"
 * Under the direction of Stephane Douady (MSC Paris VII) and Pascal-Jean Lopez (MNHN)
-* Ph.D. defense can be found here: https://www.youtube.com/watch?v=T8WHax_zYaI
-* Ph.D. Manuscript can be found here: https://drive.google.com/file/d/1FfOLBS5w3ydCyeVIUP8ySjOUAUt3k-in/view?usp=share_link
+* [Ph.D. defense can be found here](https://www.youtube.com/watch?v=T8WHax_zYaI)
+* [Ph.D. Manuscript can be found here](https://drive.google.com/file/d/1FfOLBS5w3ydCyeVIUP8ySjOUAUt3k-in/view?usp=share_link)
 
 ![image](https://user-images.githubusercontent.com/11523050/234636816-6a3dc19d-f91a-44ce-89e5-281d02ead766.png)
 
