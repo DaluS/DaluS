@@ -36,7 +36,7 @@
 
 # Who am I?
 
-In a few words, my passion is **self-organizing systems**: how a few simple processes put together can allow the emergence of complex behaviors, shapes, and harmonies. I started with a focus on shapes in nature (how does a tree get its shape ? Why are waves different, and can we read the reef shape from theirs ?), and then I studied how the environment influences the shapes of biological systems and the properties emerging from this interaction: synergies, adaptation and sometimes crises. 
+In a few words, my passion is the study of **self-organizing systems**: how a few simple processes put together can allow the emergence of complex behaviors, shapes, and harmonies. I started with a focus on shapes in nature (how does a tree get its shape ? Why are waves different, and can we read the reef shape from theirs ?), and then I studied how the environment influences the shapes of biological systems and the properties emerging from this interaction: synergies, adaptation and sometimes crises. 
 
 I was lucky enough to do a Ph.D. about the beautiful shape of a coral _Gorgonia ventalina_, described below. The goal was to **understand how such shape appears** (which processes) and if the **environmental influence** was smartly shaping the shape: the coral would be adapted to its environment. I focused on the mechanical environment: the soft coral is bent with the waves and uses this movement to stand up and catch light and particles. That leads to impressive links between many systems like cities, butterfly wings, gorgonians, the internet, academic hierarchy, trees, continents, beams... As well as a new method to look at complex shapes, read them, and measure their properties. 
 
