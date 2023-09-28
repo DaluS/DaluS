@@ -22,6 +22,7 @@
     + [Macrodynamics and Climate: Reformulation (Oxford Open Economy)](#macrodynamics-and-climate--reformulation--oxford-open-economy-)
     + [Stock-Flow-Consistent Macroeconomic Dynamics in Continuous Time (Chapter for the Routledge Handbook of Complexity Economics)](#stock-flow-consistent-macroeconomic-dynamics-in-continuous-time--chapter-for-the-routledge-handbook-of-complexity-economics-)
   * [CHIMES: Core for Holistic Interdisciplinary Models assessing Ecological Sustainability](#chimes--core-for-holistic-interdisciplinary-models-assessing-ecological-sustainability)
+  * [E-CHIMES: A general disequilibrium, physical macroeconomic model](#e-chimes--a-general-disequilibrium--physical-macroeconomic-model)
 - [Previous Work](#previous-work)
   * [Ph.D. in interdisciplinary physics: self-organization of macroscopic organisms in their mechanical environment](#phd-in-interdisciplinary-physics--self-organization-of-macroscopic-organisms-in-their-mechanical-environment)
     + [Library developped](#library-developped)
@@ -31,6 +32,9 @@
     + [Mechanic instabilities on inertial confinement fusion targets](#mechanic-instabilities-on-inertial-confinement-fusion-targets)
     + [Tsunami-induced erosion](#tsunami-induced-erosion)
 - [Links](#links)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 --------------------------------------------------
 
