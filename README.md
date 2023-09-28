@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm Paul Valcke</h1>
 <h3 align="center">A researcher in complexity dynamics applied to macroeconomic systems and strong sustainability</h3>
+<h3 align="center">[Here is my resume](https://drive.google.com/file/d/1U0r7rzY7UCTJBAwEQYudq6Bpm6lwoFtQ/view?usp=drive_link)e</h3>
 
 In a few words, my passion is **self-organizing systems**: how a few simple processes put together can allow the emergence of complex behaviors, shapes, and harmonies. I started with a focus on shapes in nature (how does a tree get its shape ? Why are waves different and can we read the reef shape from theirs ?), and then I studied how the environment influences the shapes of biological systems, and the properties emerging from this interaction: synergies, adaptation and sometimes crises. 
 
