@@ -15,16 +15,39 @@ My goal is that 50 years from now, some young crazy students can spend years stu
 
 # Post-doctoral Researcher at the Environmental Justice Program, Georgetown University
 
+## Published articles or book chapter
+
+You can always message me; I'll send you the PDF!
+
+### Capital-Human instabilities: A Constructive Framework for Self-organized Macroeconomics Models
+
+I recommend you this article if you want to create economic models that evolves with their physical environment, to construct a core, expand it, and understand its properties. 
+
+_This article introduces a comprehensive model that encapsulates the physical and economic nature of capital, addressing the complex interplay of ecological, economic, and societal dynamics and an ensemble of extensions with their effects. Emphasizing self-organization between capital investment and its services, the framework, we present relies on a double stock-flow consistency, metabolic processes, and behavioral heuristics.
+We demonstrate its robustness as a foundation with a justification for each hypothesis choice, encompassing dynamics related to debt and inventory. The core dynamics emerge as closed cycles between employment and wage share that align with an extended (Goodwin, 1967) model. We discuss the interest of such self-organizing approaches for the challenge of post-growth studies: in a deteriorating environment, the economic system adapts wages to maintain consistent mean growth and employment. We systematically explore how parameter variation and hypothesis substitution impacts system equilibrium position and stability, for a total of 25 complementary phenomena that we describe and mathematically analyze. It includes elasticity of substitution, endogenous technical progress, delayed dynamics on capital or wage negotiation, increasing return to scale, cost-pushed inflation, and growth-
+relaxing dividends. We show that, even in its two-dimensional form, the system can exhibit limit cycles with an unstable equilibrium. We conclude that an out-of-equilibrium, process-based perspective is essential, advocating for a closed cycle dynamical core as an
+initial framework for clarity, quantitative, coupling studies. Furthermore, we discuss the potential for extending this archetype with disaggregation to address dynamics related to inequality and multisectoral productive capital in a changing world_
+
+[HCinstabilityabstract.pdf](https://github.com/DaluS/DaluS/files/12753491/HCinstabilityabstract.pdf)
+
+### Macrodynamics and Climate: Reformulation (Oxford Open Economy)
+
+I recommend you this article if you want a critics of some previous IAM structure and the potential coupling possibilities with intermediate complexity climate models
+
+_Designing policy for global warming requires an integrated analysis of the interplay between the economy and the environment. The consensus is growing that, despite their dominance in the economics literature and their influence in public discussion and policymaking, the methodology employed so far by most Integrated Assessment Models ``rests on flawed foundations''. This is particularly worrisome in the face of the immense risks and challenges of global warming and the radical changes in our economies that an effective response requires. This paper introduces an alternative paradigm, {\sc idee} (Integrated Dynamic Environment-Economy), based on coupling a medium-size climate model with nonlinear, out-of-equilibrium, stock-flow-consistent macroeconomic dynamics in continuous time. {\sc idee} allows for multiple economic steady states, endogenous business cycles, endogenous growth, corporate default, and the short- and long-run assessment of various mitigation and adaptation policies. We argue that this approach is suitable for providing insights into managing the transition to net-zero emissions and coping with damages induced by the ecological crisis._
+
+### Stock-Flow-Consistent Macroeconomic Dynamics in Continuous Time (Chapter for the Routledge Handbook of Complexity Economics)
+
 ## CHIMES: Core for Holistic Interdisciplinary Models assessing Ecological Sustainability
 
-**The library is not public yet, but should be in the following months. If you want to know more about it, beta-test it, please contact me**
+**The library is not public yet but should be in the following months. If you want to know more about it and beta-test it, don't hesitate to get in touch with me**
 
 * Do You want to explore, couple, analyze existing models, or create your own? CHIMES is the library made for you! 
-* Do You work with Agent-Based models (collective behavior, economic agents, bird movements), chaotic systems, spatial properties (PDE, gravitation system, climate), and multiple circuits of resources (Money, CHNOPS...); CHIMES is the library for you! 
+* Do You work with Agent-Based models (collective behavior, economic agents, bird movements), chaotic systems, spatial properties (PDE, gravitation system, climate), and multiple circuits of resources (Money, CHNOPS...) then CHIMES is the library for you! 
 * Do You want to do a lot of runs in parallel to test the sensitivity of a parameter or initial condition? Same!
 * Do You want a user-friendly interface so that you do not code too much while keeping the full flexibility of Python at every step? Same!
 * Do You want to explore a vast library of models with their demos and behavior exploration?
-* Do You like Python for its practicality, but it's slow to solve equations? CHIMES is the library for you !
+* Do You like Python for its practicality, but it's slow to solve equations? CHIMES is the library for you!
 
 ![image](https://github.com/georgetown-ejp/CHIMES/assets/11523050/00cd06e1-0a8d-4f38-a74a-f1ee006f83af)
 *Some illustrations of CHIMES content*
