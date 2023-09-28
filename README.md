@@ -28,7 +28,8 @@ We demonstrate its robustness as a foundation with a justification for each hypo
 relaxing dividends. We show that, even in its two-dimensional form, the system can exhibit limit cycles with an unstable equilibrium. We conclude that an out-of-equilibrium, process-based perspective is essential, advocating for a closed cycle dynamical core as an
 initial framework for clarity, quantitative, coupling studies. Furthermore, we discuss the potential for extending this archetype with disaggregation to address dynamics related to inequality and multisectoral productive capital in a changing world_
 
-[HCinstabilityabstract.pdf](https://github.com/DaluS/DaluS/files/12753491/HCinstabilityabstract.pdf)
+![image](https://github.com/DaluS/DaluS/assets/11523050/11a0fbc0-7754-4003-926b-948ddd38df12)
+
 
 ### Macrodynamics and Climate: Reformulation (Oxford Open Economy)
 
