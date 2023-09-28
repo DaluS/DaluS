@@ -7,7 +7,7 @@ In a few words, my passion is **self-organizing systems**: how a few simple proc
 
 I was lucky enough to do a Ph.D. about the beautiful shape of a coral _Gorgonia ventalina_, described below. The goal was to **understand how such shape appears** (which processes) and if the **environmental influence** was smartly shaping the shape: the coral would be adapted to its environment. I focused on the mechanical environment: the soft coral is bent with the waves and uses this movement to stand up and catch light and particles. That leads to impressive links between many systems like cities, butterfly wings, gorgonians, the internet, academic hierarchy, trees, continents, beams... As well as a new method to look at complex shapes, read them, and measure their properties. 
 
-Alerted by the **biodiversity threat of the Anthropocene** and the impacts we have on our society, particularly the bleak future of corals in the XXI century, I decided to **study economic structure organization rules and their interaction with the environment**. Society as an organism, as a dissipative structure. 
+Alerted by the **biodiversity threat of the Anthropocene** and our impacts on our society, particularly the bleak future of corals in the XXI century, I decided to **study economic structure organization rules and their interaction with the environment**. Society as an organism, as a dissipative structure. 
 
 Today, I **develop methodologies, models, and numerical tools and prove analytical properties** to understand and couple complex systems, particularly for ecological economic issues. You'll find here many elements to do so.
 
@@ -15,12 +15,19 @@ My goal is that 50 years from now, some young crazy students can spend years stu
 
 # Post-doctoral Researcher at the Environmental Justice Program, Georgetown University
 
+## CHIMES: Core for Holistic Interdisciplinary Models assessing Ecological Sustainability
 
+**The library is not public yet, but should be in the following months. If you want to know more about it, beta-test it, please contact me**
 
+* Do You want to explore, couple, analyze existing models, or create your own? CHIMES is the library made for you! 
+* Do You work with Agent-Based models (collective behavior, economic agents, bird movements), chaotic systems, spatial properties (PDE, gravitation system, climate), and multiple circuits of resources (Money, CHNOPS...); CHIMES is the library for you! 
+* Do You want to do a lot of runs in parallel to test the sensitivity of a parameter or initial condition? Same!
+* Do You want a user-friendly interface so that you do not code too much while keeping the full flexibility of Python at every step? Same!
+* Do You want to explore a vast library of models with their demos and behavior exploration?
+* Do You like Python for its practicality, but it's slow to solve equations? CHIMES is the library for you !
 
-
-
-
+![image](https://github.com/georgetown-ejp/CHIMES/assets/11523050/00cd06e1-0a8d-4f38-a74a-f1ee006f83af)
+*Some illustrations of CHIMES content*
 
 
 
