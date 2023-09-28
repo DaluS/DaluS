@@ -3,6 +3,28 @@
 
 [Here is my resume](https://drive.google.com/file/d/1U0r7rzY7UCTJBAwEQYudq6Bpm6lwoFtQ/view?usp=drive_link)
 
+- [Who am I?](#who-am-i-)
+- [Post-doctoral Researcher at the Environmental Justice Program, Georgetown University](#post-doctoral-researcher-at-the-environmental-justice-program--georgetown-university)
+  * [Published articles or book chapter](#published-articles-or-book-chapter)
+    + [Capital-Human instabilities: A Constructive Framework for Self-organized Macroeconomics Models](#capital-human-instabilities--a-constructive-framework-for-self-organized-macroeconomics-models)
+    + [Macrodynamics and Climate: Reformulation (Oxford Open Economy)](#macrodynamics-and-climate--reformulation--oxford-open-economy-)
+    + [Stock-Flow-Consistent Macroeconomic Dynamics in Continuous Time (Chapter for the Routledge Handbook of Complexity Economics)](#stock-flow-consistent-macroeconomic-dynamics-in-continuous-time--chapter-for-the-routledge-handbook-of-complexity-economics-)
+  * [CHIMES: Core for Holistic Interdisciplinary Models assessing Ecological Sustainability](#chimes--core-for-holistic-interdisciplinary-models-assessing-ecological-sustainability)
+- [Previous Work](#previous-work)
+  * [Ph.D. in interdisciplinary physics: self-organization of macroscopic organisms in their mechanical environment](#phd-in-interdisciplinary-physics--self-organization-of-macroscopic-organisms-in-their-mechanical-environment)
+    + [Library developped](#library-developped)
+    + [Description of the PH.D., through the manuscript chapters](#description-of-the-phd--through-the-manuscript-chapters)
+  * [Previous Internships](#previous-internships)
+    + [Reaction-diffusion growth models with depletion applied to diatoms](#reaction-diffusion-growth-models-with-depletion-applied-to-diatoms)
+    + [Mechanic instabilities on inertial confinement fusion targets](#mechanic-instabilities-on-inertial-confinement-fusion-targets)
+    + [Tsunami-induced erosion](#tsunami-induced-erosion)
+- [Links](#links)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+# Who am I?
+
 In a few words, my passion is **self-organizing systems**: how a few simple processes put together can allow the emergence of complex behaviors, shapes, and harmonies. I started with a focus on shapes in nature (how does a tree get its shape ? Why are waves different, and can we read the reef shape from theirs ?), and then I studied how the environment influences the shapes of biological systems and the properties emerging from this interaction: synergies, adaptation and sometimes crises. 
 
 I was lucky enough to do a Ph.D. about the beautiful shape of a coral _Gorgonia ventalina_, described below. The goal was to **understand how such shape appears** (which processes) and if the **environmental influence** was smartly shaping the shape: the coral would be adapted to its environment. I focused on the mechanical environment: the soft coral is bent with the waves and uses this movement to stand up and catch light and particles. That leads to impressive links between many systems like cities, butterfly wings, gorgonians, the internet, academic hierarchy, trees, continents, beams... As well as a new method to look at complex shapes, read them, and measure their properties. 
