@@ -116,10 +116,18 @@ Plan of the chapter:
 ![image](https://github.com/georgetown-ejp/CHIMES/assets/11523050/00cd06e1-0a8d-4f38-a74a-f1ee006f83af)
 *Some illustrations of CHIMES content*
 
+## E-CHIMES: A general disequilibrium, physical macroeconomic model
 
+E-CHIMES is the state-of-the-art self-organized macroeconomic core designed to couple any number of economic sectors and endogenize their properties (environmental coupling, government dynamics, shocks...). 
+It fully represents the physical exchanges in an economy, from which the economic supply-use tables or Input-output can be generated.
 
+![image](https://github.com/DaluS/DaluS/assets/11523050/fac3ae06-ebb2-4617-a163-824cb37ce5e9)
+_Physical and nominal circuits_
 
+The core is only a small number of equations and will provide a closed trajectory in phase space; it is very practical to identify the impact of endogenizations on it and understand how it is structured. To create the core, one has to disaggregate the model `CHI` Capital-Human instabilities (see above). 
 
+![image](https://github.com/DaluS/DaluS/assets/11523050/79f74490-440e-4548-83ec-8692aadb3a7b)
+_ECHIMES is the production disaggregation of the fundamental structure on which the rest can be built_
 
 
 # Previous Work 
