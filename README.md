@@ -58,11 +58,15 @@
 ![image](https://user-images.githubusercontent.com/11523050/234812252-3f2ee34e-6152-4328-9733-6918c8107d1e.png)
 * Under the direction of Stephane Laffite (CEA-DAM) 
 
-
+ Inertial Confinement Fusion (ICF) is a method of achieving nuclear fusion, a process that powers the sun and other stars, by compressing and heating a small target of fuel to extremely high temperatures and pressures. The primary goal of ICF research is to create controlled, sustainable fusion reactions that release a large amount of energy, which can potentially provide a clean and virtually limitless source of power for various applications.
+ Those experiments create extreme conditions that mix many branches of physics and are thus hard to understand. Most approaches rely on heavy computer simulation, and while they give accurate results they do not necessarily bring comprehension. 
+ My work has been to create a simple, highly reduced model, that could explain what properties and issues were central to tackle in the quest for fusion. Based on geometrical criteria, then on instability propagation and simple fluid mechanics properties, we show the link between initial heterogeneity and the compressed deformation of a target. We identify in a very simple numerical run the amount of orthoradial kinetic energy, which determines the efficiency of a fusion target. 
 
 ### Tsunami-induced erosion
 ![image](https://user-images.githubusercontent.com/11523050/234810622-d9a98e50-8a1a-42a6-a15d-f6a0ae852001.png)
 * Under the direction of Denis Morichon (SIAME)
+
+We sometimes observe in geological sampling an unexpected layer of marine elements, far inland and not linked to anything else. It has been proven that those are markers of tsunamis, and their potential erosion and transport effects can dramatically impact any structure made to resist currents. It has been observed that under certain wave conditions, the pressure can transform a layer of ground into a liquified bed, changing the erosion effects and the wave dynamics. What are the conditions for such conditions to happen? What waves can generate such conditions, and where is it in the surf zone? What erosion patterns will it create? We investigate those properties through simple models and numerical 2D modelling.. 
 
 ![image](https://user-images.githubusercontent.com/11523050/234811048-d90e52b2-12db-4ab3-8675-5993f2a4d6df.png)
 *Criteria of sediment transport during a run-up/washdown event with a tsunami-type wave.*
