@@ -3,6 +3,8 @@
 
 [Here is my resume](https://drive.google.com/file/d/1U0r7rzY7UCTJBAwEQYudq6Bpm6lwoFtQ/view?usp=drive_link)
 
+-----------------------------------
+
 - [Who am I?](#who-am-i-)
 - [Post-doctoral Researcher at the Environmental Justice Program, Georgetown University](#post-doctoral-researcher-at-the-environmental-justice-program--georgetown-university)
   * [Published articles or book chapter](#published-articles-or-book-chapter)
@@ -20,8 +22,7 @@
     + [Tsunami-induced erosion](#tsunami-induced-erosion)
 - [Links](#links)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
+--------------------------------------------------
 
 # Who am I?
 
