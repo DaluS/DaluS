@@ -56,7 +56,7 @@ You can always message me; I'll send you the PDF!
 
 I recommend you this article if you want to create economic models that evolves with their physical environment, to construct a core, expand it, and understand its properties. 
 
-_This article introduces a comprehensive model that encapsulates the physical and economic nature of capital, addressing the complex interplay of ecological, economic, and societal dynamics and an ensemble of extensions with their effects. Emphasizing self-organization between capital investment and its services, the framework, we present relies on a double stock-flow consistency, metabolic processes, and behavioral heuristics.
+_This article introduces a comprehensive model that encapsulates capital's physical and economic nature, addressing the complex interplay of ecological, economic, and societal dynamics and an ensemble of extensions with their effects. Emphasizing self-organization between capital investment and its services, the framework, we present relies on a double stock-flow consistency, metabolic processes, and behavioral heuristics.
 We demonstrate its robustness as a foundation with a justification for each hypothesis choice, encompassing dynamics related to debt and inventory. The core dynamics emerge as closed cycles between employment and wage share that align with an extended (Goodwin, 1967) model. We discuss the interest of such self-organizing approaches for the challenge of post-growth studies: in a deteriorating environment, the economic system adapts wages to maintain consistent mean growth and employment. We systematically explore how parameter variation and hypothesis substitution impacts system equilibrium position and stability, for a total of 25 complementary phenomena that we describe and mathematically analyze. It includes elasticity of substitution, endogenous technical progress, delayed dynamics on capital or wage negotiation, increasing return to scale, cost-pushed inflation, and growth-
 relaxing dividends. We show that, even in its two-dimensional form, the system can exhibit limit cycles with an unstable equilibrium. We conclude that an out-of-equilibrium, process-based perspective is essential, advocating for a closed cycle dynamical core as an
 initial framework for clarity, quantitative, coupling studies. Furthermore, we discuss the potential for extending this archetype with disaggregation to address dynamics related to inequality and multisectoral productive capital in a changing world_
@@ -68,9 +68,39 @@ initial framework for clarity, quantitative, coupling studies. Furthermore, we d
 
 I recommend you this article if you want a critics of some previous IAM structure and the potential coupling possibilities with intermediate complexity climate models
 
-_Designing policy for global warming requires an integrated analysis of the interplay between the economy and the environment. The consensus is growing that, despite their dominance in the economics literature and their influence in public discussion and policymaking, the methodology employed so far by most Integrated Assessment Models ``rests on flawed foundations''. This is particularly worrisome in the face of the immense risks and challenges of global warming and the radical changes in our economies that an effective response requires. This paper introduces an alternative paradigm, {\sc idee} (Integrated Dynamic Environment-Economy), based on coupling a medium-size climate model with nonlinear, out-of-equilibrium, stock-flow-consistent macroeconomic dynamics in continuous time. {\sc idee} allows for multiple economic steady states, endogenous business cycles, endogenous growth, corporate default, and the short- and long-run assessment of various mitigation and adaptation policies. We argue that this approach is suitable for providing insights into managing the transition to net-zero emissions and coping with damages induced by the ecological crisis._
+_Designing policy for global warming requires an integrated analysis of the interplay between the economy and the environment. The consensus is growing that, despite their dominance in the economics literature and their influence in public discussion and policymaking, the methodology employed so far by most Integrated Assessment Models ``rests on flawed foundations''. This is particularly worrisome in the face of the immense risks and challenges of global warming and the radical changes in our economies that an effective response requires. This paper introduces an alternative paradigm, {\sc idee} (Integrated Dynamic Environment-Economy), based on coupling a medium-size climate model with nonlinear, out-of-equilibrium, stock-flow-consistent macroeconomic dynamics in continuous time. {\sc idee} allows for multiple economic steady states, endogenous business cycles, endogenous growth, corporate default, and the short- and long-run assessment of various mitigation and adaptation policies. This approach is suitable for providing insights into managing the transition to net-zero emissions and coping with damages induced by the ecological crisis._
 
 ### Stock-Flow-Consistent Macroeconomic Dynamics in Continuous Time (Chapter for the Routledge Handbook of Complexity Economics)
+
+Plan of the chapter:
+```
+1 Introduction 2
+2 Methodological Preliminaries 3
+2.1 The Importance of Time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.2 Stock-Flow Consistency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.3 On Microeconomic Foundations of Modern Macroeconomics . . . . . . . . . . . . . . 6
+2.4 A Key Element, the short-run Phillips Curve . . . . . . . . . . . . . . . . . . . . . . 7
+3 The Basic Framework 8
+3.1 Leontief Technology: The Goodwin Model . . . . . . . . . . . . . . . . . . . . . . . . 9
+3.2 CES Technology: The Van der Ploeg Model . . . . . . . . . . . . . . . . . . . . . . . 9
+3.3 Corporate Debt: The Keen Model . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3.4 Empirical and Theoretical Support for Predator-Prey Models . . . . . . . . . . . . . 13
+4 First Extensions 15
+4.1 Inventories and Inflation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+4.2 Income Inequalities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+4.3 Oligopoly Pricing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+4.4 Climate Change . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+4.4.1 Damage Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+4.4.2 Integrated Dynamic Environment-Economy (IDEE) Models . . . . . . . . . . 20
+5 Dynamics of Material Flows 22
+5.1 Why Energy Matters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+5.2 The Economy as a Dissipative Structure . . . . . . . . . . . . . . . . . . . . . . . . . 23
+6 Multisectoral Dynamics 24
+6.1 From One-Commodity Economies to Multisectorality . . . . . . . . . . . . . . . . . . 24
+6.2 The Cambridge Controversy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+6.3 Intersectoral dynamics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+7 Conclusion 28
+```
 
 ## CHIMES: Core for Holistic Interdisciplinary Models assessing Ecological Sustainability
 
