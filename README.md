@@ -30,7 +30,7 @@
 
 `PySkelWays` is a python library of image analysis, network extraction, hyper-graph construction and hyper-graph analysis. It has been created to study 2D reticulated spatial networks, and can be used on various subjects (Gorgonians, cracks patterns, leaves, dragonfly wings, cities network, jellyfishes, hyphal growth...)
 
-**Link to the repository :** https://github.com/DaluS/PySkelWays
+**Link to the repository :** https://github.com/DaluS/PySkelWays (_I am rewriting the core for an interfaced, updated version including extensions from Selene Jeammet, please contact me if you need more_)
 
 #### Description of the PH.D., through the manuscript chapters 
 
