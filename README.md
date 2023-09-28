@@ -1,6 +1,8 @@
 <h1 align="center">Hi! I'm Paul Valcke</h1>
 <h3 align="center">A researcher in complexity dynamics applied to macroeconomic systems and strong sustainability</h3>
 
+![PaulLogo](https://github.com/DaluS/DaluS/assets/11523050/37cb4820-5c36-44d0-8bda-069e1b37ed14)
+
 [Here is my resume](https://drive.google.com/file/d/1U0r7rzY7UCTJBAwEQYudq6Bpm6lwoFtQ/view?usp=drive_link)
 
 -----------------------------------
