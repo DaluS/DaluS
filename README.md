@@ -8,7 +8,7 @@
 * _C: Causal scheme of an Economy-Decarbonation-Climate model using **CHIMES** library_
 * _D: Physical stock-flow circuits for a multisectoral model._
 * _E: iterative improvement scheme for a modular economic model._ 
-* _F: Stabilisation trajectory of an Out-of-equilibrium model using **CHIMES** library_
+* _F: Stabilisation trajectory of an Out-of-equilibrium model using **CHIMES** library._
 * _G-H: Stochastic dynamics and agent-based model, using **CHIMES** library_
 
 [Here is my resume](https://drive.google.com/file/d/1U0r7rzY7UCTJBAwEQYudq6Bpm6lwoFtQ/view?usp=drive_link)
