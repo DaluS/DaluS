@@ -3,13 +3,13 @@
 <h3 align="center">A researcher in complexity dynamics applied to macroeconomic systems and strong sustainability</h3>
 
 ![PaulLogo](https://github.com/DaluS/DaluS/assets/11523050/37cb4820-5c36-44d0-8bda-069e1b37ed14)
-* _A: allometric properties on the structure of a gorgonian, from **PySkelWays** repo 
-* B: Money circuit in a 3-sector economy using **CHIMES** library
-* C: Causal scheme of an Economy-Decarbonation-Climate model using **CHIMES** library
-* D: Physical stock-flow circuits for a multisectoral model. 
-* E: iterative improvement scheme for a modular economic model. 
-* F: Stabilisation trajectory of an Out-of-equilibrium model using **CHIMES** library 
-* G-H: Stochastic dynamics and agent-based model, using **CHIMES** library_
+* _A: allometric properties on the structure of a gorgonian, from **PySkelWays** repo_
+* _B: Money circuit in a 3-sector economy using **CHIMES** library_
+* _C: Causal scheme of an Economy-Decarbonation-Climate model using **CHIMES** library_
+* _D: Physical stock-flow circuits for a multisectoral model._
+* _E: iterative improvement scheme for a modular economic model._ 
+* _F: Stabilisation trajectory of an Out-of-equilibrium model using **CHIMES** library _
+* _G-H: Stochastic dynamics and agent-based model, using **CHIMES** library_
 
 [Here is my resume](https://drive.google.com/file/d/1U0r7rzY7UCTJBAwEQYudq6Bpm6lwoFtQ/view?usp=drive_link)
 
