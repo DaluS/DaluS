@@ -1,17 +1,17 @@
 <h1 align="center">Hi! I'm Paul Valcke</h1>
 <h3 align="center">A researcher in complexity dynamics applied to macroeconomic systems and strong sustainability</h3>
 
-In a few words, my passion is self-organizing systems: how a few simple processes put together can allow the emergence of complex behaviors, shapes, and harmonies. I started with a focus on shapes in nature (how does a tree get its shape ? Why are waves different and can we read the reef shape from theirs ?), and then I studied how the environment influences the shapes of biological systems, and the properties emerging from this interaction: synergies, adaptation and sometimes crises. 
+In a few words, my passion is **self-organizing systems**: how a few simple processes put together can allow the emergence of complex behaviors, shapes, and harmonies. I started with a focus on shapes in nature (how does a tree get its shape ? Why are waves different and can we read the reef shape from theirs ?), and then I studied how the environment influences the shapes of biological systems, and the properties emerging from this interaction: synergies, adaptation and sometimes crises. 
 
-I was lucky enough to a Ph.D. in the beautiful shape of a coral _Gorgonia ventalina_, described below. The goal was to understand how such shape appears (which processes) and if the environmental influence was shaping the shape in a smart way: the coral would be adapted to its environment. I was focusing on the mechanical environment: the soft coral is bent with the waves and uses this movement to stand up and catch light and particles. That leads to impressive links between many systems like cities, butterfly wings, gorgonians, the internet, academic hierarchy, trees, continents, beams... As well as a new method to look at complex shapes, read them, and measure their properties. 
+I was lucky enough to a Ph.D. in the beautiful shape of a coral _Gorgonia ventalina_, described below. The goal was to **understand how such shape appears** (which processes) and if the **environmental influence** was shaping the shape in a smart way: the coral would be adapted to its environment. I was focusing on the mechanical environment: the soft coral is bent with the waves and uses this movement to stand up and catch light and particles. That leads to impressive links between many systems like cities, butterfly wings, gorgonians, the internet, academic hierarchy, trees, continents, beams... As well as a new method to look at complex shapes, read them, and measure their properties. 
 
-Alerted by the biodiversity side of the Anthropocene and the impacts we have on our society, and more particularly the bleak future of corals in the XXI century, I decided to study economic structure organization rules, and their feedback with their environment. Society as an organism. 
+Alerted by the **biodiversity threat of the Anthropocene** and the impacts we have on our society, and more particularly the bleak future of corals in the XXI century, I decided to **study economic structure organization rules, and their interaction with the environment**. Society as an organism, as a dissipative structure. 
 
-Today, I develop methodologies, models, and numerical tools to understand and couple complex systems, and in particular ecological economic issues. You'll find here many elements to do so.
+Today, I **develop methodologies, models, and numerical tools and prove analytical properties** to understand and couple complex systems, in particular for ecological economic issues. You'll find here many elements to do so.
 
 My goal is that 50 years from now, some young crazy students can spend years studying the beauty of our environment. That would require that a beautiful environment still exists and that society is well enough to allow such non-conventional subjects to be explored. 
 
-## Post-doctoral Researcher at the Environmental Justice Program, Georgetown University
+# Post-doctoral Researcher at the Environmental Justice Program, Georgetown University
 
 
 
@@ -26,9 +26,9 @@ My goal is that 50 years from now, some young crazy students can spend years stu
 
 
 
-## Previous Work 
+# Previous Work 
 
-### Ph.D. in interdisciplinary physics: self-organization of macroscopic organisms in their mechanical environment
+## Ph.D. in interdisciplinary physics: self-organization of macroscopic organisms in their mechanical environment
 * "form, formation, deformation of G. ventalina"
 * Under the direction of Stephane Douady (MSC Paris VII) and Pascal-Jean Lopez (MNHN)
 * Ph.D. defense can be found here: https://www.youtube.com/watch?v=T8WHax_zYaI
@@ -36,13 +36,13 @@ My goal is that 50 years from now, some young crazy students can spend years stu
 
 ![image](https://user-images.githubusercontent.com/11523050/234636816-6a3dc19d-f91a-44ce-89e5-281d02ead766.png)
 
-#### Library developped
+### Library developped
 
 `PySkelWays` is a python library of image analysis, network extraction, hyper-graph construction and hyper-graph analysis. It has been created to study 2D reticulated spatial networks, and can be used on various subjects (Gorgonians, cracks patterns, leaves, dragonfly wings, cities network, jellyfishes, hyphal growth...)
 
 **Link to the repository :** https://github.com/DaluS/PySkelWays (_I am rewriting the core for an interfaced, updated version including extensions from Selene Jeammet, please contact me if you need more_)
 
-#### Description of the PH.D., through the manuscript chapters 
+### Description of the PH.D., through the manuscript chapters 
 
 *How can we read the complex shape of corals ? What are its geometrical and mechanical properties ? What can they tell us about their environment ? How do they appear, how can we decompose the shape as an ensemble of simple growth processes coupled together ? What does those growth processes tell us about the ability of Gorgonia ventalina to acclimate its environment ?*
 
