@@ -13,6 +13,9 @@
 
 [Here is my resume](https://drive.google.com/file/d/1U0r7rzY7UCTJBAwEQYudq6Bpm6lwoFtQ/view?usp=drive_link)
 
+![image](https://github.com/DaluS/DaluS/assets/11523050/b2504162-3838-4b2e-a743-e3e7fd34d531)
+
+
 -----------------------------------
 
 - [Who am I?](#who-am-i-)
