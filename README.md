@@ -2,7 +2,11 @@
 
 <h3 align="center">A researcher in complexity dynamics applied to macroeconomic systems and strong sustainability</h3>
 
+
+<h3 align="center">I build, tinker, analyze, expand theoretical and numerical models</h3>
+
 ![PaulLogo](https://github.com/DaluS/DaluS/assets/11523050/37cb4820-5c36-44d0-8bda-069e1b37ed14)
+_A few illustration from previous works_
 * _A: allometric properties on the structure of a gorgonian, from **PySkelWays** repo_
 * _B: Money circuit in a 3-sector economy using **CHIMES** library_
 * _C: Causal scheme of an Economy-Decarbonation-Climate model using **CHIMES** library_
@@ -70,12 +74,15 @@ initial framework for clarity, quantitative, coupling studies. Furthermore, we d
 
 ![image](https://github.com/DaluS/DaluS/assets/11523050/11a0fbc0-7754-4003-926b-948ddd38df12)
 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603915
 
 ### Macrodynamics and Climate: Reformulation (Oxford Open Economy)
 
 I recommend you this article if you want a critics of some previous IAM structure and the potential coupling possibilities with intermediate complexity climate models
 
 _Designing policy for global warming requires an integrated analysis of the interplay between the economy and the environment. The consensus is growing that, despite their dominance in the economics literature and their influence in public discussion and policymaking, the methodology employed so far by most Integrated Assessment Models ``rests on flawed foundations''. This is particularly worrisome in the face of the immense risks and challenges of global warming and the radical changes in our economies that an effective response requires. This paper introduces an alternative paradigm, {\sc idee} (Integrated Dynamic Environment-Economy), based on coupling a medium-size climate model with nonlinear, out-of-equilibrium, stock-flow-consistent macroeconomic dynamics in continuous time. {\sc idee} allows for multiple economic steady states, endogenous business cycles, endogenous growth, corporate default, and the short- and long-run assessment of various mitigation and adaptation policies. This approach is suitable for providing insights into managing the transition to net-zero emissions and coping with damages induced by the ecological crisis._
+
+https://academic.oup.com/ooec/article/doi/10.1093/ooec/odad007/7282277
 
 ### Stock-Flow-Consistent Macroeconomic Dynamics in Continuous Time (Chapter for the Routledge Handbook of Complexity Economics)
 
